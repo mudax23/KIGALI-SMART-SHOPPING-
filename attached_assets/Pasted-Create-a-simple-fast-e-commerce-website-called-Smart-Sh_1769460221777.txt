@@ -1,0 +1,67 @@
+Create a simple, fast e-commerce website called “Smart Shopping.”
+Use a light blue and white color theme with a clean, modern design.
+The website should be lightweight, mobile-friendly, and easy to navigate.
+Avoid complex features and heavy animations.
+________________________________________
+🗂️ 2️⃣ HOMEPAGE LAYOUT
+Design the homepage of Smart Shopping with:
+•	A top navigation bar
+•	Logo name: Smart Shopping
+•	Menu items: Home, Shop, Categories, Contact
+•	A welcome banner with the text: “Smart Deals on Tech & Repair Tools”
+•	Featured product section
+•	Footer with contact info and WhatsApp order option
+
+________________________________________
+💻 4️⃣ PRODUCT PAGE STRUCTURE
+Each product should display:
+•	Product image
+•	Product name
+•	Short description
+•	Price shown clearly below the item
+•	“Order on WhatsApp” button
+Keep the layout simple and clean.
+•	
+Each category should open its own product listing page.
+
+________________________________________
+📲 5️⃣ WHATSAPP ORDER BUTTON
+Add a green “Order on WhatsApp” button on each product.
+When clicked, it should open WhatsApp chat to this number: [INSERT YOUR NUMBER]
+Include an automatic message:
+Hello, I want to order this product from Smart Shopping.
+________________________________________
+🔐 6️⃣ ADMIN UPLOAD SYSTEM (NO CODE STYLE)
+Create a simple admin dashboard for 1–2 admins only.
+Admins should be able to:
+•	Log in securely
+•	Add products
+•	Upload product image
+•	Enter product name
+•	Enter description
+•	Enter price
+•	Choose category
+The system should be easy like filling a form (no coding required).
+________________________________________
+👤 7️⃣ USER SIGNUP (FOR STATISTICS)
+Add a simple user signup system.
+Users can create an account with name and email.
+Users do NOT need to log in to buy, but signup data should be saved for statistics.
+________________________________________
+📊 8️⃣ ADMIN STATISTICS
+In the admin dashboard, include a simple statistics page that shows:
+•	Number of registered users
+•	Number of products uploaded
+•	Most viewed products (if possible)
+Keep statistics simple and visual.
+________________________________________
+🎨 9️⃣ DESIGN STYLE REFINEMENT
+Use soft light blue, white, and small touches of gray.
+Use rounded buttons and modern fonts.
+Keep spacing clean and uncluttered.
+Make sure the site loads fast on mobile devices.
+________________________________________
+🧠 🔟 PERFORMANCE RULE
+Optimize the website for speed and simplicity.
+Avoid heavy animations, large scripts, or complex features.
+
